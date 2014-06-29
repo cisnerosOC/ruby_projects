@@ -1,3 +1,5 @@
+#Ruby program created to return a fibonacci sequence. 
+
 x = 0
 y = 1
 
